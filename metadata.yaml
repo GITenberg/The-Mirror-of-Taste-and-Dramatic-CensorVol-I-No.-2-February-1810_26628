@@ -1,0 +1,36 @@
+_repo: The-Mirror-of-Taste-and-Dramatic-CensorVol-I-No.-2-February-1810_26628
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arnold, Samuel James
+    alias: Arnold, S. J. (Samuel James)
+    birthdate: 1774
+    deathdate: 1852
+    gutenberg_agent_id: '32133'
+    url: http://www.gutenberg.org/2009/agents/32133
+  editor:
+    agent_name: Carpenter, S. C. (Stephen Cullen)
+    alias: Carpenter, Stephen Cullen
+    gutenberg_agent_id: '25354'
+    url: http://www.gutenberg.org/2009/agents/25354
+description: ''
+gutenberg_bookshelf: The Mirror of Taste, and Dramatic Censor
+gutenberg_issued: '2008-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Periodicals'
+- !lcsh 'Drama -- Periodicals'
+- !lcc 'AP'
+title: 'The Mirror of Taste, and Dramatic Censor
+
+  Vol I, No. 2, February 1810'
+url: http://www.gutenberg.org/ebooks/26628
